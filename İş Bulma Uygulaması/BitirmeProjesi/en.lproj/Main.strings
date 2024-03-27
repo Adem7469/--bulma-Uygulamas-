@@ -1,0 +1,138 @@
+
+/* Class = "UITextField"; placeholder = "Şifre"; ObjectID = "1RD-Rl-z3W"; */
+"1RD-Rl-z3W.placeholder" = "Şifre";
+
+/* Class = "UIButton"; configuration.title = "İş Arıyorum"; ObjectID = "3jN-Jk-MMZ"; */
+"3jN-Jk-MMZ.configuration.title" = "İş Arıyorum";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "3jN-Jk-MMZ"; */
+"3jN-Jk-MMZ.normalTitle" = "Button";
+
+/* Class = "UITextField"; placeholder = "İş yeri adı"; ObjectID = "3km-hE-sop"; */
+"3km-hE-sop.placeholder" = "İş yeri adı";
+
+/* Class = "UITextField"; placeholder = "Ad"; ObjectID = "5Xs-FT-QLs"; */
+"5Xs-FT-QLs.placeholder" = "Ad";
+
+/* Class = "UILabel"; text = "Soyadınızı girin"; ObjectID = "5jg-qR-gDa"; */
+"5jg-qR-gDa.text" = "Soyadınızı girin";
+
+/* Class = "UITextField"; placeholder = "Eposta"; ObjectID = "6SR-kz-T4s"; */
+"6SR-kz-T4s.placeholder" = "Eposta";
+
+/* Class = "UIButton"; configuration.title = "Hemen Üye Ol"; ObjectID = "C7H-ma-13Z"; */
+"C7H-ma-13Z.configuration.title" = "Hemen Üye Ol";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "C7H-ma-13Z"; */
+"C7H-ma-13Z.normalTitle" = "Button";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "CYx-V5-iTB"; */
+"CYx-V5-iTB.title" = "Item";
+
+/* Class = "UIBarButtonItem"; title = "İlanlar"; ObjectID = "Crm-QC-TkH"; */
+"Crm-QC-TkH.title" = "İlanlar";
+
+/* Class = "UITextField"; placeholder = "Soyad"; ObjectID = "DTk-xH-tNs"; */
+"DTk-xH-tNs.placeholder" = "Soyad";
+
+/* Class = "UITextField"; placeholder = "Tüm İlanlar . Tüm Konumlar"; ObjectID = "G8R-LK-EtL"; */
+"G8R-LK-EtL.placeholder" = "Tüm İlanlar . Tüm Konumlar";
+
+/* Class = "UILabel"; text = "İş yeri adresinizi girin"; ObjectID = "Gvb-3w-LD7"; */
+"Gvb-3w-LD7.text" = "İş yeri adresinizi girin";
+
+/* Class = "UITextField"; placeholder = "Adres"; ObjectID = "IZt-Gr-06X"; */
+"IZt-Gr-06X.placeholder" = "Adres";
+
+/* Class = "UIButton"; configuration.title = "Giriş"; ObjectID = "IbS-hM-DY7"; */
+"IbS-hM-DY7.configuration.title" = "Giriş";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "IbS-hM-DY7"; */
+"IbS-hM-DY7.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Çalışan Arıyorum"; ObjectID = "KU7-fb-LB9"; */
+"KU7-fb-LB9.configuration.title" = "Çalışan Arıyorum";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "KU7-fb-LB9"; */
+"KU7-fb-LB9.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "İleri"; ObjectID = "Myy-Fh-Qg6"; */
+"Myy-Fh-Qg6.configuration.title" = "İleri";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Myy-Fh-Qg6"; */
+"Myy-Fh-Qg6.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Telefon numaranizi giriniz"; ObjectID = "S2n-j5-roM"; */
+"S2n-j5-roM.text" = "Telefon numaranizi giriniz";
+
+/* Class = "UITabBarItem"; title = "Item 1"; ObjectID = "S5S-on-hdW"; */
+"S5S-on-hdW.title" = "Item 1";
+
+/* Class = "UILabel"; text = "İş mi arıyorsun?"; ObjectID = "SHo-BI-g3J"; */
+"SHo-BI-g3J.text" = "İş mi arıyorsun?";
+
+/* Class = "UILabel"; text = "Tekrar Şifrenizi girin"; ObjectID = "SwI-0S-LxC"; */
+"SwI-0S-LxC.text" = "Tekrar Şifrenizi girin";
+
+/* Class = "UILabel"; text = "Çalışan bulmak için  hemen üye ol  ya da giriş yap"; ObjectID = "TW6-N4-tid"; */
+"TW6-N4-tid.text" = "Çalışan bulmak için  hemen üye ol  ya da giriş yap";
+
+/* Class = "UIBarButtonItem"; title = "Yeni ilan"; ObjectID = "UEU-Bw-41V"; */
+"UEU-Bw-41V.title" = "Yeni ilan";
+
+/* Class = "UIButton"; configuration.title = "Üye Ol"; ObjectID = "Ui7-tK-lB3"; */
+"Ui7-tK-lB3.configuration.title" = "Üye Ol";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Ui7-tK-lB3"; */
+"Ui7-tK-lB3.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Yeni ilan"; ObjectID = "VdO-d5-v2C"; */
+"VdO-d5-v2C.configuration.title" = "Yeni ilan";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "VdO-d5-v2C"; */
+"VdO-d5-v2C.normalTitle" = "Button";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "W8u-qn-4Z0"; */
+"W8u-qn-4Z0.title" = "Item";
+
+/* Class = "UILabel"; text = "Şifrenizi giriniz"; ObjectID = "Z5E-hy-oaB"; */
+"Z5E-hy-oaB.text" = "Şifrenizi giriniz";
+
+/* Class = "UILabel"; text = "Çalışanmı arıyorsun?"; ObjectID = "ZKn-f9-jN8"; */
+"ZKn-f9-jN8.text" = "Çalışanmı arıyorsun?";
+
+/* Class = "UIButton"; configuration.title = "Giriş Yap"; ObjectID = "bKH-RF-rjL"; */
+"bKH-RF-rjL.configuration.title" = "Giriş Yap";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "bKH-RF-rjL"; */
+"bKH-RF-rjL.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Telefon numaranızı girin"; ObjectID = "dTo-Sb-Y6K"; */
+"dTo-Sb-Y6K.text" = "Telefon numaranızı girin";
+
+/* Class = "UITextField"; placeholder = "Şifre"; ObjectID = "hwE-vy-SAO"; */
+"hwE-vy-SAO.placeholder" = "Şifre";
+
+/* Class = "UITextField"; placeholder = "Telefon No"; ObjectID = "jDy-cb-dwm"; */
+"jDy-cb-dwm.placeholder" = "Telefon No";
+
+/* Class = "UITextField"; placeholder = "Şifre Onay"; ObjectID = "ndF-gm-27W"; */
+"ndF-gm-27W.placeholder" = "Şifre Onay";
+
+/* Class = "UITabBarItem"; title = "Item 2"; ObjectID = "ngT-kX-Wy6"; */
+"ngT-kX-Wy6.title" = "Item 2";
+
+/* Class = "UILabel"; text = "Şifrenizi girin"; ObjectID = "pfS-1p-GAA"; */
+"pfS-1p-GAA.text" = "Şifrenizi girin";
+
+/* Class = "UITextField"; placeholder = "Telefon No"; ObjectID = "t7u-6Y-mF4"; */
+"t7u-6Y-mF4.placeholder" = "Telefon No";
+
+/* Class = "UILabel"; text = "Adınızı girin"; ObjectID = "uIx-iH-ucT"; */
+"uIx-iH-ucT.text" = "Adınızı girin";
+
+/* Class = "UILabel"; text = "İş yeri adını girin"; ObjectID = "ue3-fw-xfs"; */
+"ue3-fw-xfs.text" = "İş yeri adını girin";
+
+/* Class = "UILabel"; text = "Eposta adresinizi girin"; ObjectID = "v1u-c9-1Op"; */
+"v1u-c9-1Op.text" = "Eposta adresinizi girin";
